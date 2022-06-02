@@ -1,0 +1,69 @@
+{
+    "articles": [
+        {
+          "id": 1,
+          "title": "Top 13 Ways to Become a Professional Vacationer",
+          "articlePhoto": "elNidoTop1.png",
+          "authorFirstName": "Devin",
+          "authorLastName": "Shook",
+          "createdAt": "5/20/2021",
+          "tags": ["Professional", "Vacationers", "Unlimited"],
+          "overview": "If you had the right information to live a life of vacation would you?  This article covers everything you need to know to live true Professional Vacationer Life!",
+          "story": "There are several great ways to fund your travels and vacations but choosing what is best for you can be the tricky part."
+        },
+        {
+          "id": 2,
+          "title": "Czech Countryside",
+          "articlePhoto": "excitedfood.jpg",
+          "authorFirstName": "Zuzana",
+          "authorLastName": "Storkanova",
+          "createdAt": "5/20/2021",
+          "tags": ["Professional", "Vacationers", "Unlimited"]
+        },
+        {
+          "id": 3,
+          "title": "Amazing Africa",
+          "articlePhoto": "colombiatop.jpg",
+          "authorFirstName": "Richard",
+          "authorLastName": "Van Straten",
+          "createdAt": "5/20/2021",
+          "tags": ["Professional", "Vacationers", "Unlimited"]
+        },
+        {
+          "id": 4,
+          "title": "More Fun in the Philippines",
+          "articlePhoto": "scuba-dive-ok.jpg",
+          "authorFirstName": "Max",
+          "authorLastName": "Hoven",
+          "createdAt": "5/20/2021",
+          "tags": ["Professional", "Vacationers", "Unlimited"]
+        },
+        {
+          "id": 5,
+          "title": "Sustainable Travel",
+          "articlePhoto": "AndrewCliffLake.jpg",
+          "authorFirstName": "Devin",
+          "authorLastName": "Shook",
+          "createdAt": "5/24/2021",
+          "tags": ["Professional", "Vacationers", "Unlimited"]
+        },
+        {
+          "id": 6,
+          "title": "Estalin in Ecuador",
+          "articlePhoto": "elNidoTop1.png",
+          "authorFirstName": "Estalin",
+          "authorLastName": "Cajas",
+          "createdAt": "5/21/2021",
+          "tags": ["Professional", "Vacationers", "Unlimited"]
+        },
+        {
+          "id": 7,
+          "title": "Journeys with Jesse",
+          "articlePhoto": "elNidoTop1.png",
+          "authorFirstName": "Jesse",
+          "authorLastName": "Dehering",
+          "createdAt": "5/22/2021",
+          "tags": ["Professional", "Vacationers", "Unlimited"]
+        }             
+      ]
+}
